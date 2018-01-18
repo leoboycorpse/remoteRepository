@@ -1,3 +1,0 @@
-print('Lunchhhh')
-
-print('tooooooooo')
